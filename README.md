@@ -1,22 +1,14 @@
 # Hi, I'm Zubash 👋
 
-Fullstack developer from Pakistan. I build things with C# and .NET on the backend and React / React Native on the front. I care a lot about writing software that's actually thought through — good architecture, clean patterns, systems that hold up. DSA and system design aren't just interview stuff to me, they're how I think about problems.
+Fullstack software engineer from Pakistan. I build things with C# and .NET on the backend and React / React Native on the front. I care a lot about writing software that's is thought through and actually maintainable. Good architecture, clean patterns, systems that hold up. DSA and system design aren't just interview stuff to me, they're how I think about problems.
 
 On the side, I dabble in the world of computer graphics, shaders, render techniques, how light actually works in real-time and a little bit of game dev.
 
----
-
-**🔨 Currently building**
-
-**Hole-in-One** — an AI-powered golf social app for golfers. Think smart scorecards, social features, and a bit of intelligence layered on top. React Native + .NET.
-
----
-
-**🚀 Shipped**
+**🚀 Professional Projects**
 
 **[Starling Cleaners](https://starlingcleaners.com.au)** — A booking and service platform for a Melbourne-based cleaning business. End-to-end fullstack build.
 
----
+
 
 **Stack**
 
