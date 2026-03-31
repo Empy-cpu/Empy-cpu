@@ -4,11 +4,6 @@ Fullstack software engineer from Pakistan. I build things with C# and .NET on th
 
 On the side, I dabble in the world of computer graphics, shaders, render techniques, how light actually works in real-time and a little bit of game dev.
 
-**🚀 Professional Projects**
-
-**[Starling Cleaners](https://starlingcleaners.com.au)** — A booking and service platform for a Melbourne-based cleaning business. End-to-end fullstack build.
-
-
 
 **Stack**
 
