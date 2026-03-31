@@ -26,12 +26,6 @@ Outside of work, I'm drawn to computer graphics — shaders, render pipelines, h
 
 ---
 
-**GitHub Stats**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Empy-cpu&show_icons=true&theme=tokyonight&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Empy-cpu&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubash-h-606460322/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Empyrean_57)
